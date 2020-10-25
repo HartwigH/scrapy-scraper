@@ -1,0 +1,6 @@
+.scrapy
+respo/__init__.py
+respo/__pycache__
+respo/spiders/__pycache__
+respo/spiders/__init__.py
+respo/utils.py
