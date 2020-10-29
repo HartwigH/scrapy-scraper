@@ -10,7 +10,6 @@ import pandas as pd
 import logging 
 from scrapy import signals
 from scrapy.exporters import CsvItemExporter
-from utils import *
 
 def sendToFtp():
     from ftplib import FTP
